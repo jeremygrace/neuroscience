@@ -6,8 +6,7 @@ Neuroscience
 >In recent years, with the advancements in computation power and data storage, the use of statistical learning has been able to dramatically increase and spread across industries. One specific field benefiting from this method of data analysis is neuroscience. This repository showcases my work in the field of neuroscience.
 
 <br>
-
-<img align="left" src="img/fmri.byu-compact.png" alt="fMRI">
+![fMRI](img/fmri.byu-compact.png)
 [ 1 ]
 
 <br>
@@ -18,7 +17,7 @@ Neuroscience
 
 <br>
 
-<img align="center" src="img/brainscan.ucberkley.jpg" alt="Diffusion.fMRI">
+![Diffusion.fMRI](img/brainscan.ucberkley.jpg)
 [ 2 ]
 
 <br>
