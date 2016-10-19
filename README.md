@@ -31,4 +31,4 @@ Citations:
 [ 2 ] - Brigham Young University - MRI Research Facility, _fMRI brain scan image_.
 
 
-If you run into any issues or simply have a question, please feel free to contact me at jeremy.grace@outlook.com.
+If you have any questions or suggestions on my current work, please feel free to contact me at jeremy.grace@outlook.com.
