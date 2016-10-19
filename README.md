@@ -12,7 +12,6 @@ Neuroscience
 <br>
 
 #### Projects
-<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **`p1`**     &nbsp;&nbsp; Analysis of Aging, Dementia, and Traumatic Brain Injury data
 
