@@ -5,10 +5,13 @@ Neuroscience
 
 >In recent years, with the advancements in computation power and data storage, the use of statistical learning has been able to dramatically increase and spread across industries. One specific field benefiting from this method of data analysis is neuroscience. This repository showcases my work in the field of neuroscience.
 
-<img align="center" src="img/fmri.byu-compact.png" alt="fMRI">
+<br>
+
+<img align="left" src="img/fmri.byu-compact.png" alt="fMRI">
 [ 1 ]
 
 <br>
+
 #### Projects
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **`p1`**     &nbsp;&nbsp; Analysis of Aging, Dementia, and Traumatic Brain Injury data
