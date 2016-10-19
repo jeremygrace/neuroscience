@@ -1,0 +1,134 @@
+api_class_name,internal_name,description,treatment_id,full_name,gene_id,method,display_name,long_display_name
+ApiTbiDonorMetric,ihc_a_syn,Percentage of area covered by ë±-synuclein immunreactivity on fresh frozen tissue (25ë_m); identifies Lewy bodies and Lewy neurites.,300239725,Alpha-synuclein immunohistochemistry (fresh frozen tissue): areal density,,IHC: Fresh Frozen,ë±-syn(fresh),ë±-syn IHC density (fresh)
+ApiCamCellMetric,area,Functional area of 2P recording,,Targeted Area,,,Targeted Area,Targeted Area
+ApiTbiDonorMetric,ifn_g_pg_per_mg,"A prototype pro-inflammatory cytokine, critical for innate and adaptive immunity against viral and some bacterial infection via activation of macrophages and induction of class II MHC expression.",,Interferon-gamma,,Luminex,IFNë_,IFNë_ protein quant.
+ApiTbiDonorDetail,name,Deidentified ID corresponding to a unique ACT (Adult Changes in Thought) donor.,,Donor ID,,,Donor,Donor ID
+ApiCamCellMetric,time_to_peak_sg,Mean time to peak response for static grating stimulus,,Time to peak - static grating,,,Time to peak static grating,Time to peak static grating
+ApiCamExperimentContainerMetric,imaging_depth,Depth in microns of 2P recording,,Imaging Depth,,,Imaging Depth,Imaging Depth
+ApiTbiDonorDetail,external_donor_name,ACT (Adult Changes in Thought) number,,External Donor Name,,,ACT ID,
+ApiTbiDonorMetric,isoprostane_pg_per_mg,"Prostaglandin-like compounds produced by the reaction of free-radicals with arachidonic acid, they are considered reliable biomarkers and mediators of oxidative stress.",,F2-Isoprostane,,,F2-IP,F2-IP (oxidative stress)
+ApiCamExperimentContainerMetric,direction_selectivity_large,cumulative histogram of ROI direction selectivities,,Direction Selectivity,,,Direction Selectivity,Direction Selectivity
+TbiNonquantifiedImageStains,ish_mobp,"ISH of MOBP, targeting mature oligodendrocytes.",1,Myelin-associated oligodendrocyte basic protein (ISH),4310,ISH,MOBP,MOBP
+ApiCamCellMetric,imaging_depth,Depth in microns of 2P recording,,Imaging Depth,,,Imaging Depth,Imaging Depth
+ApiCamExperimentContainerMetric,orientation_selectivity_sg_large,cumulative histogram of ROI orientation selectivities - static grating,,Orientation Selectivity,,,Orientation Selectivity,Orientation Selectivity
+ApiTbiDonorMetric,ihc_a_beta_ffpe,"Percentage of area covered by Aë_ immunreactivity on formalin fixed, paraffin embedded tissue (5ë_m); identifies both Aë_40 and Aë_42. ",471133345,"Beta-amyloid  immunohistochemistry (formalin fixed, paraffin embedded): areal density",,"IHC: Formalin Fixed, Paraffin Embedded",Aë_(FFPE),Aë_ IHC density (FFPE)
+ApiTbiDonorMetric,ab42_over_ab40_ratio,Ratio of Aë_40 to Aë_42.,,Ratio of Aë_40 to Aë_42,,,Aë_40:Aë_42,Aë_40 to Aë_42 ratio
+ApiCamCellMetric,natural_movie_one_b_small,summary of trial response to natural movie clip one,,Response to Natural Movie 1b,,,Natural Movie 1b,Response to Natural Movie 1b
+ApiCamExperimentContainerMetric,area,Functional area of 2P recording,,Targeted Area,,,Targeted Area,Targeted Area
+ApiTbiDonorMetric,mcp_1_pg_per_mg,A chemokine of the CC subfamily that displays chemotactic activity for monocytes primarily to the sites of inflammation.,,"Monocyte chemotactic protein 1, also known as CCL2",,Luminex,MCP-1,MCP-1 protein quant.
+ApiTbiDonorMetric,ihc_at8,"Percentage of area covered by AT8 immunreactivity on fresh frozen tissue  (25ë_m); identifies immature and mature neurofibrillary tangles, formed of tau phosphorylated at S202 and T205. Also identifies neurites, glial tangles, and inclusion bodies comprised of phosphorylated tau protein.",300239722,Phospho-tau (immature and mature) immunohistochemistry (fresh frozen tissue; labeled by AT8): areal density,,IHC: Fresh Frozen,AT8(fresh),Tau IHC density (AT8; fresh)
+ApiTbiDonorMetric,ab40_pg_per_mg,40-amino acid beta-amyloid peptide derived from the amyloid precursor protein (APP); found in amyloid plaques in aging and Alzheimer's disease.,,Beta-amyloid 1-40,,Luminex,Aë_40,Aë_40 protein quant.
+ApiTbiDonorDetail,dsm_iv_clinical_diagnosis,"Classification found in the Diagnostic and Statistical Manual of Mental Disorders, 4th Edition, for dementia presence and subtype: 1 (Alzheimer's disease), 2 (vascular), 3 (other medical), 4 (substance), 5 (multiple), 6 (other/unknown), and 7 (no dementia).",,DSM-IV clinical diagnosis,,,DSM-IV Dx,DSM-IV diagnosis
+ApiTbiDonorMetric,ab40_over_ab42_ratio,Ratio of Aë_40 to Aë_42.,,Ratio of Aë_40 to Aë_42,,,Aë_40:Aë_42,Aë_40 to Aë_42 ratio
+ApiCamExperimentContainerMetric,projection_b,maximum intensity projection of ROIs,,Maximum Intensity Projection B,,,Maximum Intensity Projection,Maximum Intensity Projection
+ApiTbiDonorMetric,il_1b_pg_per_mg,"A pro-inflammatory cytokine protein produced in response to inflammatory stimuli, it is an important mediator of the inflammatory response.  Involved in cell proliferation, differentiation and apoptosis.",,Interleukin-1 beta,,Luminex,IL-1ë_,IL-1ë_ protein quant.
+ApiCamCellMetric,pref_dir_dg,Preferred direction for drifting grating stimulus,,Preferred direction - drifting grating,,,Preferred direction drifting grating,Preferred direction drifting grating
+ApiTbiDonorDetail,sex,Gender,,Gender,,,Sex,Gender
+ApiCamCellMetric,speed_tuning_c_large,mean response vs running speed during all stimuli and spontaneous activity,,Response vs running speed C,,,Speed tuning C,Response vs running speed C
+ApiCamCellMetric,natural_movie_three_large,summary of trial response to natural move clip three,,Response to Natural Movie 3,,,Natural Movie 3,Response to Natural Movie 3
+ApiCamCellMetric,natural_scene_large,summary of trial response to natural scenes,,Response to Natural Scenes,,,Natural scene,Response to Natural Scenes
+ApiCamCellMetric,natural_scene_small,summary of trial response to natural scenes,,Response to Natural Scenes,,,Natural scene,Response to Natural Scenes
+ApiTbiDonorMetric,tau_ng_per_mg,Microtubule binding protein predominantly expressed in neurons in the brain. ,,Total Tau,,Luminex,Tau,Tau protein quant.
+ApiTbiDonorMetric,ihc_gfap_ffpe,"Percentage of area covered by GFAP immunreactivity on formalin fixed, paraffin embedded tissue (5ë_m); identifies activated astrocytes.",471133388,"Glial fibrillary acidic protein immunohistochemistry (formalin fixed, paraffin embedded): areal density",,"IHC: Formalin Fixed, Paraffin Embedded",GFAP(FFPE),GFAP IHC density (FFPE)
+TbiNonquantifiedImageStains,thio_s,Thioflavin-S staining on fresh frozen tissue (25ë_m); identifies mature amyloid plaques and mature neurofibrillary tangles.,300176721,Thioflavin-S,,Fresh Frozen,ThioS,ThioS stain
+ApiTbiDonorMetric,ihc_a_beta,Percentage of area covered by Aë_ immunreactivity on fresh frozen tissue (25ë_m); identifies both Aë_40 and Aë_42.,300239718,Beta-amyloid  immunohistochemistry (fresh frozen tissue): areal density,,IHC: Fresh Frozen,Aë_(fresh),Aë_ IHC density (fresh)
+TbiNonquantifiedImageStains,h_e_lfb_ffpe,Hematoxylin identifies cell nuclei; Eosin stains cytoplasm and some cytoplasmic inclusions; Luxol Fast Blue stains myelin in tissue (5 ë_m).,471133394,Hematoxylin and eosin-Luxol Fast Blue stains,,"Formalin Fixed, Paraffin Embedded",H&E-LFB(FFPE),H&E-LFB stain (FFPE)
+ApiTbiDonorDetail,root_specimen_external_name,UW autopsy number,,Top Specimen External Name,,,,
+ApiTbiDonorDetail,race,White or non-white,,Race,,,Race,Race
+ApiCamCellMetric,speed_tuning_b_large,mean response vs running speed during all stimuli and spontaneous activity,,Response vs running speed B,,,Speed tuning B,Response vs running speed B
+TbiNonquantifiedImageStains,ish_slc17a7,"ISH of the vesicular glutamate transporter SLC17A7 (VGLUT1), targeting all excitatory cells.",1,"Solute carrier family 17 (vesicular glutamate transporter), member 7 (ISH)",36308,ISH,SLC17A7,SLC17A7
+ApiTbiDonorDetail,ever_tbi_w_loc,Identification of TBI vs. control cases,,Ever TBI with Loss of Consciousness?,,,TBI?,TBI (Y/N)
+ApiCamCellMetric,speed_tuning_a_large,mean response vs running speed during all stimuli and spontaneous activity,,Response vs running speed A,,,Speed tuning A,Response vs running speed A
+ApiCamExperimentContainerMetric,time_to_peak_sg_small,time of peak response to static grating stimulus for all ROIs,,Time to Peak,,,Time to Peak,Time to Peak
+ApiTbiDonorMetric,ihc_tau2_ffpe,"Percentage of area covered by Tau2 immunreactivity on formalin fixed, paraffin embedded tissue (5ë_m); identifies mature neurofibrillary tangles and dystrophic neurites.",471133381,"Phospho-tau (mature) immunohistochemistry (formalin fixed, paraffin embedded; labeled by Tau2): areal density",,"IHC: Formalin Fixed, Paraffin Embedded",Tau2(FFPE),Mature Tau IHC density (Tau2; FFPE)
+ApiCamExperimentContainerMetric,tlr1_name,Transgenic reporter line,,Reporter line,,,Reporter line,Reporter line
+TbiNonquantifiedImageStains,ish_slc6a1,"ISH of the GABA transporter SLC6A1, targeting all inhibitory cells.",1,"Solute carrier family 6 (neurotransmitter transporter), member 1 (ISH)",6493,ISH,SLC6A1,SLC6A1
+ApiTbiDonorMetric,il_4_pg_per_mg,"A pleiotropic cytokine, produced by activated T cells and mast cells, stimulates B-cell activation and T-cell proliferation. It plays a dominant role in development of allergic inflammation.",,Interleukin-4,,Luminex,IL-4,IL-4 protein quant.
+ApiCamExperimentContainerMetric,preferred_direction_small,radial histogram of ROI preferred directions,,Preferred direction,,,Preferred direction,Preferred direction
+ApiCamCellMetric,natural_movie_one_b_large,summary of trial response to natural movie clip one,,Response to Natural Movie 1b,,,Natural Movie 1b,Response to Natural Movie 1b
+ApiCamCellMetric,tlr1_name,Transgenic reporter line,,Reporter line,,,Reporter line,Reporter line
+ApiTbiDonorDetail,apo_e4_allele,Yes - at least one ApoE4 allele; No - no ApoE4 allele present,,Presence of ApoE4 allele,,,ApoE4,ApoE4 (1+/0)
+ApiCamCellMetric,p_dg,P value from mulitway ANOVA comparing stimulus conditions,,P value - drifting grating,,,P value drifting grating,P value drifting grating
+ApiTbiDonorDetail,longest_loc_duration,"Ordinal score of length of loss of consciousness: 0 (none or unknown), 1 (a few sec or <), 2 (min or <), 3 (1-2 min), 4 (3-5 min), 5 (6-9 min), 6 (10 min-1 hr), and 7 (> 1 hr).",,Longest duration of loss of consciousness,,,Duration,TBI (duration)
+ApiCamExperimentContainerMetric,preferred_orientation_large,radial histogram of ROI preferred orientations,,Preferred Orientation,,,Preferred Orientation,Preferred Orientation
+TbiNonquantifiedImageStains,ihc_a_syn_ffpe,"ë±-synuclein immunreactivity  on formalin fixed, paraffin embedded tissue (5ë_m); identifies Lewy bodies and Lewy neurites.",471133384,"Alpha-synuclein immunohistochemistry (formalin fixed, paraffin embedded)",,"IHC: Formalin Fixed, Paraffin Embedded",ë±-syn(FFPE),ë±-syn IHC (FFPE)
+ApiTbiDonorDetail,control_set,Unique integer corresponding to each pair of matched TBI and control donors.,,Control set,,,Control set,Control set
+ApiCamCellMetric,speed_tuning_c_small,mean response vs running speed during all stimuli and spontaneous activity,,Response vs running speed C,,,Speed tuning C,Response vs running speed C
+ApiTbiDonorMetric,il_7_pg_per_mg,"A hematopoietic growth factor that stimulates the differentiation of pluripotent hematopoietic stem cells into lymphoid progenitor cells. It is important for lymphocyte differentiation, proliferation, and survival.",,Interleukin-7,,Luminex,IL-7,IL-7 protein quant.
+ApiCamExperimentContainerMetric,time_to_peak_ns_large,time of peak response to natural scenes stimulus for all ROIs,,Time to Peak,,,Time to Peak,Time to Peak
+ApiCamCellMetric,dsi_dg,Direction selectivity index for drifting grating stimulus,,Direction Selectivity Index - drifting grating,,,Direction Selectivity Index,Direction Selectivity Index
+ApiTbiDonorMetric,ihc_at8_ffpe,"Percentage of area covered by AT8 immunreactivity on formalin fixed, paraffin embedded tissue (5ë_m); identifies immature and mature neurofibrillary tangles, formed of tau phosphorylated at S202 and T205. Also identifies neurites, glial tangles, and inclusion bodies comprised of phosphorylated tau protein.",471133370,"Phospho-tau (immature and mature) immunohistochemistry (formalin fixed, paraffin embedded; labeled by AT8): areal density",,"IHC: Formalin Fixed, Paraffin Embedded",AT8(FFPE),Tau IHC density (AT8; FFPE)
+ApiCamCellMetric,natural_movie_one_a_small,summary of trial response to natural movie clip one,,Response to Natural Movie 1a,,,Natural Movie 1a,Response to Natural Movie 1a
+ApiTbiDonorMetric,vegf_pg_per_mg,A growth factor that stimulates vasculogenesis and angiogenesis.,,Vascular endothelial growth factor,,Luminex,VEGF,VEGF protein quant.
+ApiCamCellMetric,speed_tuning_b_small,mean response vs running speed during all stimuli and spontaneous activity,,Response vs running speed B,,,Speed tuning B,Response vs running speed B
+ApiTbiDonorDetail,age,"Linear from ages 72-89; binned at 90-94, 95-99, and 100+.",,Age,,,Age,Age
+TbiNonquantifiedImageStains,ish_gfap,"ISH of GFAP, targeting activated astrocytes.",1,Glial fibrillary acidic protein (ISH),2654,ISH,GFAP,GFAP
+ApiCamCellMetric,pref_sf_sg,Preferred spatial frequency for static grating stimulus,,Preferred spatial frequency - static grating,,,Preferred spatial frequency static grating,Preferred spatial frequency static grating
+ApiCamCellMetric,natural_movie_three_small,summary of trial response to natural move clip three,,Response to Natural Movie 3,,,Natural Movie 3,Response to Natural Movie 3
+ApiCamExperimentContainerMetric,orientation_selectivity_sg_small,cumulative histogram of ROI orientation selectivities - static grating,,Orientation Selectivity,,,Orientation Selectivity,Orientation Selectivity
+ApiCamCellMetric,osi_dg,Orientation selectivity index for drifting grating stimulus,,Orientation Selectivity Index - drifting grating,,,Orientation Selectivity Index,Orientation Selectivity Index
+TbiNonquantifiedImageStains,ish_aqp4,"ISH of AQP4, targeting all astrocytes.",1,Aquaporin 4 (ISH),358,ISH,AQP4,AQP4
+ApiCamExperimentContainerMetric,preferred_direction_large,radial histogram of ROI preferred directions,,Preferred direction,,,Preferred direction,Preferred direction
+ApiCamExperimentContainerMetric,orientation_selectivity_dg_small,cumulative histogram of ROI orientation selectivities - drifting grating,,Orientation Selectivity,,,Orientation Selectivity,Orientation Selectivity
+ApiCamCellMetric,drifting_grating_small,summary of trial response to drifting gratings,,Drifting grating response,,,Drifting grating,Drifting grating response
+ApiTbiDonorMetric,rantes_pg_per_mg,A chemokine belonging to the CC chemokine subfamily produced by epithelial and mesodermal cells.  It plays an active role in recruiting leukocytes into inflammatory sites.,,"Regulated on activation, normal T cell expressed and secreted; also known as CCL5",,Luminex,RANTES,RANTES protein quant.
+ApiCamCellMetric,natural_movie_one_c_small,summary of trial response to natural movie clip one,,Response to Natural Movie 1c,,,Natural Movie 1c,Response to Natural Movie 1c
+ApiCamCellMetric,pref_image_ns,Natural scene that elicited the greatest response,,Preferred image - natural scene,,,Preferred image,Preferred image
+ApiTbiDonorMetric,ptau_ng_per_mg,Tau abnormally phosphorylated at threonine 181; abnormally phosphorylated tau plays an important role in tau aggregation and the pathological process in Alzheimer's disease; neurofibrillary tangles are comprised of hyperphosphorylated tau. ,,Phosphorylated Tau,,Luminex,pTau-181,pTau-181 protein quant.
+ApiCamCellMetric,natural_movie_two_large,summary of trial response to natural movie clip two,,Response to Natural Movie 2,,,Natural Movie 2,Response to Natural Movie 2
+ApiCamCellMetric,osi_sg,Orientation selectivity index for static grating stimulus,,Orientation Selectivity Index - static grating,,,Orientation Selectivity Index,Orientation Selectivity Index
+ApiCamExperimentContainerMetric,time_to_peak_ns_small,time of peak response to natural scenes stimulus for all ROIs,,Time to Peak,,,Time to Peak,Time to Peak
+ApiCamCellMetric,locally_sparse_noise_on_small,summary of trial response to white squares in locally sparse noise stimulus,,Locally sparse noise response - on,,,Locally sparse noise - on,Locally sparse noise response - on
+ApiCamCellMetric,speed_tuning_a_small,mean response vs running speed during all stimuli and spontaneous activity,,Response vs running speed A,,,Speed tuning A,Response vs running speed A
+TbiNonquantifiedImageStains,nissl,Thionin (nissl) staining on fresh frozen tissue (25ë_m); identifies cell bodies.,3,Thionin (Nissl),,Fresh Frozen,Nissl,Nissl stain
+ApiCamExperimentContainerMetric,projection_a,maximum intensity projection of ROIs,,Maximum Intensity Projection A,,,Maximum Intensity Projection,Maximum Intensity Projection
+ApiCamExperimentContainerMetric,orientation_selectivity_dg_large,cumulative histogram of ROI orientation selectivities - drifting grating,,Orientation Selectivity,,,Orientation Selectivity,Orientation Selectivity
+ApiCamExperimentContainerMetric,preferred_temporal_frequency_large,histogram of ROI preferred temporal frequencies,,Preferred Temporal Frequency,,,Preferred Temporal Frequency,Preferred Temporal Frequency
+ApiTbiDonorDetail,donor_id,,,,,,,
+ApiCamExperimentContainerMetric,preferred_temporal_frequency_small,histogram of ROI preferred temporal frequencies,,Preferred Temporal Frequency,,,Preferred Temporal Frequency,Preferred Temporal Frequency
+ApiTbiDonorMetric,ihc_iba1_ffpe,"Percentage of area covered by IBA1 immunreactivity on formalin fixed, paraffin embedded tissue (5ë_m).",471133392,"IBA1 immunohistochemistry (formalin fixed, paraffin embedded): areal density",,"IHC: Formalin Fixed, Paraffin Embedded",IBA1(FFPE),IBA1 IHC density (FFPE)
+ApiCamCellMetric,drifting_grating_large,summary of trial response to drifting gratings,,Drifting grating response,,,Drifting grating,Drifting grating response
+ApiCamCellMetric,natural_movie_two_small,summary of trial response to natural movie clip two,,Response to Natural Movie 2,,,Natural Movie 2,Response to Natural Movie 2
+ApiCamCellMetric,tld1_name,Transgenic driver line,,Cre driver,,,Cre driver,Cre driver
+ApiTbiDonorDetail,cerad,"Staging of severity of amyloid deposition from 0 (none) to 3 (severe), as defined by CERAD  (Consortium to Establish a Registry for Alzheimer‰Ûªs Disease) score.",,CERAD score,,,CERAD score,CERAD score
+ApiCamCellMetric,natural_movie_one_a_large,summary of trial response to natural movie clip one,,Response to Natural Movie 1a,,,Natural Movie 1a,Response to Natural Movie 1a
+ApiTbiDonorMetric,il_6_pg_per_mg,A pro-inflammatory cytokine that plays an important role in acute response of inflammation and B-cell maturation.,,Interleukin-6,,Luminex,IL-6,IL-6 protein quant.
+ApiCamCellMetric,p_sg,P value from mulitway ANOVA comparing stimulus conditions,,P value - static grating,,,P value static grating,P value static grating
+ApiCamExperimentContainerMetric,time_to_peak_sg_large,time of peak response to static grating stimulus for all ROIs,,Time to Peak,,,Time to Peak,Time to Peak
+ApiTbiDonorDetail,hispanic,Hispanic or non-hispanic,,Hispanic,,,Ethnicity,Ethnicity
+ApiCamExperimentContainerMetric,direction_selectivity_small,cumulative histogram of ROI direction selectivities,,Direction Selectivity,,,Direction Selectivity,Direction Selectivity
+ApiCamExperimentContainerMetric,tld1_name,Transgenic driver line,,Cre driver,,,Cre driver,Cre driver
+ApiCamCellMetric,pref_ori_sg,Preferred orientation for static grating stimulus,,Preferred orientation - static grating,,,Preferred orientation static grating,Preferred orientation static grating
+ApiCamCellMetric,locally_sparse_noise_off_small,summary of trial response to black squares in locally sparse noise stimulus,,Locally sparse noise response - off,,,Locally sparse noise - off,Locally sparse noise response - off
+ApiCamCellMetric,locally_sparse_noise_off_large,summary of trial response to black squares in locally sparse noise stimulus,,Locally sparse noise response - off,,,Locally sparse noise - off,Locally sparse noise response - off
+ApiCamCellMetric,p_ns,P value from mulitway ANOVA comparing stimulus conditions,,P value - natural scene,,,P value natural scene,P value natural scene
+ApiCamExperimentContainerMetric,preferred_spatial_frequency_small,histogram of ROI preferred spatial frequencies,,Preferred Spatial Frequency,,,Preferred Spatial Frequency,Preferred Spatial Frequency
+ApiTbiDonorDetail,act_demented,Any dementia noted during subject's tenure in the ACT study.,,Presence of any dementia,,,Dementia?,Dementia (Y/N)
+ApiTbiDonorMetric,bdnf_pg_per_mg,"A neurotrophic factor primarily produced in the brain, it promotes the growth and differentiation of neurons and synapses.",,Brain-derived neurotrophic factor,,Luminex,BDNF,BDNF protein quant.
+ApiTbiDonorMetric,ptau_over_tau_ratio,Ratio of tau phosphorylated at threonine-181 to full length tau.,,Ratio of phosphorylated tau to all tau,,,pTau:Tau,pTau to Tau ratio
+ApiCamCellMetric,tld2_name,Camk2a line,,Camk2a driver,,,Camk2a driver,Camk2a driver
+ApiCamCellMetric,natural_movie_one_c_large,summary of trial response to natural movie clip one,,Response to Natural Movie 1c,,,Natural Movie 1c,Response to Natural Movie 1c
+ApiCamExperimentContainerMetric,preferred_spatial_frequency_large,histogram of ROI preferred spatial frequencies,,Preferred Spatial Frequency,,,Preferred Spatial Frequency,Preferred Spatial Frequency
+ApiTbiDonorMetric,mip_1a_pg_per_mg,A chemokine of the CC subfamily with chemotactic and pro-inflammatory effects; crucial for immune responses.  ,,"Macrophage inflammatory protein-1 alpha, also known as CCL3",,Luminex,MIP-1ë±,MIP-1ë± protein quant.
+ApiTbiDonorDetail,pmi_hrs,Post-mortem interval,,PMI in hours,,,PMI(H),PMI (hours)
+ApiTbiDonorMetric,ab42_pg_per_mg,42 amino-acid beta-amyloid peptide derived from the amyloid precursor protein (APP); believed to be more amyloidogenic than the 40-amino acid form; found in amyloid plaques in aging and Alzheimer's disease.  ,,Beta-amyloid 1-42,,Luminex,Aë_42,Aë_42 protein quant.
+ApiTbiDonorDetail,nincds_arda_diagnosis,"Clinical description of probable or possible Alzheimer's disease based on NINCDS/ADRDA criteria: 0 (no dementia), 1 (probable Alzheimer's disease), 2 (possible Alzheimer's disease), and 3 (dementia, type unknown).",,NINCDS/ADRDA Diagnosis,,,Diagnosis,NINCDS/ADRDA Diagnosis
+ApiTbiDonorDetail,education_years,Number of years of education completed,,Education in years,,,Education,Education (years)
+ApiCamExperimentContainerMetric,tld2_name,Camk2a line,,Camk2a driver,,,Camk2a driver,Camk2a driver
+ApiCamCellMetric,static_gratings_small,summary of trial responses to static grating stimulus,,Static grating response,,,Static grating,Static grating response
+ApiCamCellMetric,locally_sparse_noise_on_large,summary of trial response to white squares in locally sparse noise stimulus,,Locally sparse noise response - on,,,Locally sparse noise - on,Locally sparse noise response - on
+TbiNonquantifiedImageStains,ish_reln,"ISH of RELN, targeting a subtype of interneurons.",1,Reelin (ISH),5617,ISH,RELN,RELN
+ApiTbiDonorDetail,num_tbi_w_loc,"Number of recorded TBI, ranging from 0 (control) to 3.",,Number of TBI with loss of consciousness,,,# TBI,TBI (count)
+ApiCamExperimentContainerMetric,preferred_orientation_small,radial histogram of ROI preferred orientations,,Preferred Orientation,,,Preferred Orientation,Preferred Orientation
+ApiTbiDonorMetric,ihc_ptdp_43_ffpe,"Percentage of area covered by phospho-TDP43 (TAR DNA binding protein) immunreactivity on formalin fixed, paraffin embedded tissue (5ë_m); identifies abnormally accumulated TDP43.",471133386,"Phospho-TDP-43 immunohistochemistry (formalin fixed, paraffin embedded): areal density",,"IHC: Formalin Fixed, Paraffin Embedded",TDP43(FFPE),TDP43 IHC density (FFPE)
+ApiCamCellMetric,pref_tf_dg,Preferred temporal frequency for drifting grating stimulus,,Preferred temporal frequency - drifting grating,,,Preferred temporal frequency drifting grating,Preferred temporal frequency drifting grating
+ApiCamCellMetric,static_gratings_large,summary of trial responses to static grating stimulus,,Static grating response,,,Static grating,Static grating response
+ApiCamExperimentContainerMetric,projection_c,maximum intensity projection of ROIs,,Maximum Intensity Projection C,,,Maximum Intensity Projection,Maximum Intensity Projection
+ApiTbiDonorDetail,nia_reagan,Likelihood that clinical dementia is a result of Alzheimer's disease.,,NIA Reagan diagnosis,,,NIA Reagan,NIA Reagan diagnosis
+ApiTbiDonorMetric,a_syn_pg_per_mg,"An abundant protein in presynaptic terminals in the brain, it is a major component of Lewy bodies, the pathological hallmark of Parkinson's disease (PD). Mutant forms of ë±-SNCA are associated with familial PD. It may also play a role in development of sporadic PD.",,Alpha-synuclein,,Luminex,ë±-SNCA,ë±-SNCA protein quant.
+ApiCamCellMetric,time_to_peak_ns,Mean time to peak response for natural scene stimulus,,Time to peak - natural scene,,,Time to peak natural scene,Time to peak natural scene
+ApiTbiDonorMetric,il_10_pg_per_mg,"An anti-inflammatory cytokine produced primarily via downregulation of the expression of Th1 cytokines, MHC class II antigens, and the activation of macrophages.",,Interleukin-10,,Luminex,IL-10,IL-10 protein quant.
+ApiTbiDonorDetail,braak,Staging of neurofibrillary tangles (NFTs) from 0 (none) to 6 (extensive neocortical NFTs) based on Braak method of staging.,,Braak stage,,,Braak stage,Braak stage
+ApiTbiDonorMetric,tnf_a_pg_per_mg,"A pro-inflammatory cytokine, produced primarily by macrophages, regulates inflammatory response, especially in acute phase.",,Tumor necrosis factor alpha,,Luminex,TNFë±,TNFë± protein quant.
+ApiCamCellMetric,pref_phase_sg,Preferred phase frequency for static grating stimulus,,Preferred phase frequency - static grating,,,Preferred phase frequency static grating,Preferred phase frequency static grating
+ApiTbiDonorDetail,age_at_first_tbi,Age at which first TBI with loss of consciousness was reported.,,Age at first TBI,,,Age at 1st TBI,Age at 1st TBI
