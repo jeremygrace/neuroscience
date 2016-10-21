@@ -1,5 +1,5 @@
-![Diffusion.fMRI](img/brainscan.ucberkley.jpg)
-[ 1 ]
+<img alt="Diffusion.fMRI" src="img/brainscan.ucberkley.jpg" width='400'>  
+<sub><b>Figure 1: </b> Washington University, _An fMRI cross sectional image of the brain bisects the diffusion image_. Image shows major nerve cell axons in the white matter of a resting brain. </sub>
 
 Neuroscience
 ==========
@@ -17,18 +17,11 @@ Neuroscience
 
 <br>
 
-![fMRI](img/fmri.byu-compact.png)
-[ 2 ]
-
+<img alt="fMRI" src="img/fmri.byu-compact.png" width='800'>  
+<sub><b>Figure 2: </b> Brigham Young University - MRI Research Facility, _fMRI brain scan image_.</sub>
 
 <br>
 
 ---
-Citations:
-
-[ 1 ] - Washington University, _An fMRI cross sectional image of the brain bisects the diffusion image_. Image shows major nerve cell axons in the white matter of a resting brain.
-
-[ 2 ] - Brigham Young University - MRI Research Facility, _fMRI brain scan image_.
-
 
 If you have any questions or suggestions on my current work, please feel free to contact me at jeremy.grace@outlook.com.
