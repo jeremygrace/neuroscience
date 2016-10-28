@@ -1,8 +1,4 @@
-# Jupyter Notebook
 .ipynb_checkpoints
-
-# Byte-compiled / optimized / DLL files
-__pycache__/
-
-# Other stuff
+*.pyc
+__pycache__
 .DS_Store
