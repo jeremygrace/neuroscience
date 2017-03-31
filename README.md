@@ -4,6 +4,8 @@
 <sub><b>Figure 1: </b> Washington University, _An fMRI cross sectional image of the brain bisects the diffusion image_. Image shows major nerve cell axons in the white matter of a resting brain. </sub>
 </p>
 
+<br>
+
 Neuroscience
 ==========
 
