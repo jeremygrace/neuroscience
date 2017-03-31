@@ -1,5 +1,6 @@
-<img alt="Diffusion.fMRI" src="img/brainscan.ucberkley.jpg" width='400'>  
+<p align='center'><img alt="Diffusion.fMRI" src="img/brainscan.ucberkley.jpg" width='400'>  
 <sub><b>Figure 1: </b> Washington University, _An fMRI cross sectional image of the brain bisects the diffusion image_. Image shows major nerve cell axons in the white matter of a resting brain. </sub>
+</p>
 
 Neuroscience
 ==========
@@ -17,9 +18,10 @@ In recent years, with the advancements in computation power and data storage, th
 
 
 <br>
-
+<p align='center'>
 <img alt="fMRI" src="img/fmri.byu-compact.png" width='800'>  
 <sub><b>Figure 2: </b> Brigham Young University - MRI Research Facility, _fMRI brain scan image_.</sub>
+</p>
 
 <br>
 
