@@ -1,3 +1,9 @@
+
+<p align='center'>
+    <img src='img/neurolink.gif'/>
+</p>
+
+
 Aging, Dementia, and Traumatic Brain Injury data
 =======
 
