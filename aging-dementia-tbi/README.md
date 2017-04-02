@@ -1,6 +1,6 @@
 
 <p align='center'>
-    <img src='img/neurolink.gif'/>
+    <img src='img/neurolink.gif' width='550'/>
 </p>
 
 
